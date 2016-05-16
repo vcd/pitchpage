@@ -1,0 +1,25 @@
+
+@import 'semantic';
+
+/* My Styles */
+
+body, h1 {
+    font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ui.card {
+    background: transparent;
+    padding: 1em;
+}
+
+.sidebar h1 {
+    color: #fff;
+}
+
+body { 
+  background: url("../img/gallery.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
